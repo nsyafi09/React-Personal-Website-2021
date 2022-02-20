@@ -8,3 +8,9 @@ Canvas for drawing
 ### npx json-server --watch stories.json --port 9999 
 ## npm start for in both backend and frontend folders
 # Screenshots
+Main page
+![main](https://github.com/nsyafi09/React-Personal-Website-2021/blob/main/Screenshots/main.png)
+Canvas
+![canvas](https://github.com/nsyafi09/React-Personal-Website-2021/blob/main/Screenshots/canvas.png)
+Story
+![Story](https://github.com/nsyafi09/React-Personal-Website-2021/blob/main/Screenshots/main.png)
