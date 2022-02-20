@@ -1,0 +1,20 @@
+.input1 {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.input2 {
+    padding: 90px;
+}
+
+.submitButton {
+    margin-top: 5px;
+    font-size: 12px;
+    border-radius: 15px;
+    background-color: rgba(68, 68, 68, 0.7);
+    color: white;
+    /* border: 0; */
+    overflow: hidden;
+    box-shadow: 0 0 1px rgba(0, 0, 0, 15);
+    outline: none;
+}
