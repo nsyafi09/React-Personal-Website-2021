@@ -3,3 +3,8 @@ Personal website that utilizes things such as React and Node I created in my spa
 # Features:
 Reading and uploading texts/stories
 Canvas for drawing
+## Npm install to setup
+Run in data
+### npx json-server --watch stories.json --port 9999 
+## npm start for in both backend and frontend folders
+# Screenshots
